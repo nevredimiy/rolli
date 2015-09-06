@@ -1,0 +1,11 @@
+/*
+Theme Name:     Kub
+Theme URI:      http: //example.com/
+Description:    Дочерняя тема для темы Twenty Fifteen 
+Author:         Artem Litvinov
+Author URI:     https://github.com/
+Template:       twentyfifteen 
+Version:        0.1.0
+*/
+
+@import url("../twentyfifteen/style.css");
