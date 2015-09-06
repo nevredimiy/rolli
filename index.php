@@ -16,7 +16,29 @@
 get_header(); ?>
 
 
-    <h1>Hello, world!</h1>
+	<div class="container">
+		<div class="row text-center">
+			<div class="col-md-3"></div>
+			<div class="col-md-6"><img src="/wp-content/uploads/2015/09/rolli-logo.jpg"  alt="rolli-logo" class="img-thumbnail" ></div>
+			<div class="col-md-3"></div>
+		</div>
+		<div class="row text-center">
+			<div class="col-md-3"></div>
+			<div class="col-md-6"><img src="/wp-content/uploads/2015/09/rolli-logo.jpg" width=100%></div>
+			<div class="col-md-3"></div>
+		</div>
+		<div class="row text-center">
+			<div class="col-md-3"></div>
+			<div class="col-md-6"><img src="/wp-content/uploads/2015/09/rolli-logo.jpg" width=100%></div>
+			<div class="col-md-3"></div>
+		</div>
+		<div class="row text-center">
+			<div class="col-md-3"></div>
+			<div class="col-md-3"></div>
+			<div class="col-md-3"></div>
+			<div class="col-md-3"></div>
+		</div>
+	</div>
 
 
 <?php get_footer(); ?>
