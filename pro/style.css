@@ -1,4 +1,9 @@
+.container{margin-top: 50px;}
 
+.picBottom {
+  position:relative;
+  bottom:-30px;
+}
 a img {
 opacity:1.0; -moz-opacity:1.0;
 filter:alpha(opacity=100);
@@ -8,3 +13,6 @@ a:hover img {
 opacity:0.3; -moz-opacity:0.3;
 filter:alpha(opacity=40);
 }
+
+/*.img-thumbnail {border: none !important;}
+*/
